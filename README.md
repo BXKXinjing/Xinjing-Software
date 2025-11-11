@@ -3,7 +3,7 @@
 
 #### Please notice that **"repo"** is different to the root **"organization"**.
 
-Please do upload files here for further modifications.
+Please do upload files here for further interactions.
 
 We recommend keep files in:
 
